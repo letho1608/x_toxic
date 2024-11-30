@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+   Non-Toxic       0.95      0.95      0.95      6784
+       Toxic       0.92      0.92      0.92      4554
+
+    accuracy                           0.94     11338
+   macro avg       0.93      0.93      0.93     11338
+weighted avg       0.94      0.94      0.94     11338
