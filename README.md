@@ -12,7 +12,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/toxic-comment-classifier.git
+   git clone https://github.com/letho1608/x_toxic
 2. **Run** click the file caidat.bat -> huanluyen.bat ( or not because I've already run it ) - > run.bat
 
 ## 🧠 Training the Model
